@@ -1,0 +1,113 @@
+[[mpg123]]
+arch = "armv7l"
+git-tree-sha1 = "f636ed6833f905a9207e27c7a399b08b462c19d0"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "cd666283640e9193194626fdd54966342f7026135a4e989590692fd8cdd2971e"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.arm-linux-musleabihf.tar.gz"
+[[mpg123]]
+arch = "powerpc64le"
+git-tree-sha1 = "388038b9e484e60d3f073fd1f8142e8fc018bfde"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "4bac8c1b2b7a59acf387e231599736669eb67d7f4f92ea0c1ee9e65020d04869"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.powerpc64le-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "97d6912054cab4fa2744c88afd26af732a0f3a57"
+os = "macos"
+
+    [[mpg123.download]]
+    sha256 = "efeb44b58619f0c98e2eb541151e310efe14db7d2a3f7c38897c202b69f16cb1"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.x86_64-apple-darwin14.tar.gz"
+[[mpg123]]
+arch = "aarch64"
+git-tree-sha1 = "24b1fd6b1c29f6fdf89d3af15dd649f725ede909"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "43bcff9f85f4f610a82a760288139d084f50915284f50ce0f70224468317f093"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.aarch64-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "armv7l"
+git-tree-sha1 = "94d2a6b756bcf09df5c62c52cb5a9127e31875cc"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "7746e8d9db89fbc30af59184baad067ae17f99be83019c11408de1f9bda9cd52"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.arm-linux-gnueabihf.tar.gz"
+[[mpg123]]
+arch = "i686"
+git-tree-sha1 = "07c24b10828f836628f103e691bb26f53822aaa2"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "ef44876882a0e990068335de794d0ec0688c56524665d2669af607d67f826cba"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.i686-linux-musl.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "55f1d927bb6dfa1b54d2dadc762f11604413d56c"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "90f05a425e2914e8e10e77d1afbc303a838c57919e6584372d3e11e93f898f9c"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.x86_64-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "32a7466d9cb2a3a340270f02edbc78ec038c89c0"
+os = "windows"
+
+    [[mpg123.download]]
+    sha256 = "5435ad7fec987793b4a5baeb7050dc84896e746c2fe9bd60e23f96ee4106a1ed"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.x86_64-w64-mingw32.tar.gz"
+[[mpg123]]
+arch = "aarch64"
+git-tree-sha1 = "9123744b0ae91445bfa51d97022442f5b17d0d61"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "5b882fa8c25ca2305977f99102bac236c27d68884d416e97a9a1f78837304b7f"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.aarch64-linux-musl.tar.gz"
+[[mpg123]]
+arch = "i686"
+git-tree-sha1 = "6fcee99cc488946bc1c0dcbf77cbf25ac19bc16d"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "2f87ba930ba1465d77fd5bb60568bae0f37694cd7f09f3e272a5ec0f1a4377b0"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.i686-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "3a354333c3e9ce0f5bdbd4a3d30bc8b1561cc725"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "04e2ef6c9abf84a66dad8098062ee1a803fc6966b1ae33754adc094fdef4f2b2"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.x86_64-linux-musl.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "c29c9c9bb4ade182d4353d60325199b38612d137"
+os = "freebsd"
+
+    [[mpg123.download]]
+    sha256 = "4e2e0ddde2e63fc3e88450359b681847f59cca8003197dac6e99aab57f418210"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.x86_64-unknown-freebsd11.1.tar.gz"
+[[mpg123]]
+arch = "i686"
+git-tree-sha1 = "143d61e827b06223fa04826343d6638424798f8e"
+os = "windows"
+
+    [[mpg123.download]]
+    sha256 = "e3dc00e2e7ed5e34139b34deb404a60a5ed65d269fc05d32783e3dd09ca8340f"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.25.12+0/mpg123.v1.25.12.i686-w64-mingw32.tar.gz"
