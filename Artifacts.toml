@@ -1,143 +1,160 @@
 [[mpg123]]
 arch = "aarch64"
-git-tree-sha1 = "65c62da814f1da174c2f9acd8d35800b0e33f0ce"
+git-tree-sha1 = "ddf676e3ef252c79d3bf3761a310b4cb62964547"
 os = "macos"
 
     [[mpg123.download]]
-    sha256 = "913a723ece3224ed327c70899b269c39e36ec2f8fefee1459a862373317e7f05"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "046092fe3cfb3626f5b904357640fb9438d4237ccf0df0a6033cf85449713eef"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.aarch64-apple-darwin.tar.gz"
 [[mpg123]]
 arch = "aarch64"
-git-tree-sha1 = "b7a44c093c70617422eea167994060172a5ee0d0"
+git-tree-sha1 = "2049f721f9638dbd897f6191ab661b6ff466bc7c"
 libc = "glibc"
 os = "linux"
 
     [[mpg123.download]]
-    sha256 = "c9ea0d1643d55e33f46651396ecf1b4c5be6220f25fb814310db84b74fd4ca07"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "07394e73f119405a66ee81e4c0ce8e960429e13127cfa8ed90ce8c5490789d1a"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.aarch64-linux-gnu.tar.gz"
 [[mpg123]]
 arch = "aarch64"
-git-tree-sha1 = "f72c831c35448355eecbe09c5292f1a0b34aa1fe"
+git-tree-sha1 = "50715d64b79a1571dad406ebcc30082fde199120"
 libc = "musl"
 os = "linux"
 
     [[mpg123.download]]
-    sha256 = "310704ce4345a39dfa78b6788d7a3c787fee47317800704cefc57cba2d6d6646"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.aarch64-linux-musl.tar.gz"
+    sha256 = "77537fc1f345f21ad4f7a509097f38df196bde0f13f011e31a94e3979fa91c3b"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.aarch64-linux-musl.tar.gz"
 [[mpg123]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "ef9c414cbf2548177c2e7bf5be5058a5ac36785d"
-libc = "glibc"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "6c3385d3a3cbad8fce62b8a1c64b1ce6b022ac24ed9912f83d961221f8d7c0fa"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.armv6l-linux-gnueabihf.tar.gz"
-[[mpg123]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "a46be7469e5bbfb508008967ad8dfcecccaf571c"
-libc = "musl"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "06bef92379a92ba4e8c839b26011a723933a2948979f11a815faed22d6fd6c74"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.armv6l-linux-musleabihf.tar.gz"
-[[mpg123]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "1a7236225cfc64725f7c4e89eab4b0127cbbe936"
-libc = "glibc"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "3fb0e9feaded2b6f15ecc6634ed87a9bb329cec798e580867db8863d5f4bfbfd"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.armv7l-linux-gnueabihf.tar.gz"
-[[mpg123]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "7c1d916c1beab1d649e426e796b4c2de2f0b2ac4"
-libc = "musl"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "27441f4d25a21c75c37f559d36dd4bd97e50ae316f95b57506ef79ccdcfe81b3"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.armv7l-linux-musleabihf.tar.gz"
-[[mpg123]]
-arch = "i686"
-git-tree-sha1 = "2f8726c8025eb811f1b6f37a1284e6d604729ed6"
-libc = "glibc"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "8e5e6becd7df43bb5ea0a7fa2e09be46034106e59217c615c97e269719a1011b"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.i686-linux-gnu.tar.gz"
-[[mpg123]]
-arch = "i686"
-git-tree-sha1 = "cca5a3bc7a0031ec5c68d281ca0b55f1d0d63d13"
-libc = "musl"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "cc202d934f6f928fd1eee9f37d407a63640524cb74ad328f52d41856234d1acc"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.i686-linux-musl.tar.gz"
-[[mpg123]]
-arch = "i686"
-git-tree-sha1 = "db4931507dd4b035dcaf210446f1888a9125048b"
-os = "windows"
-
-    [[mpg123.download]]
-    sha256 = "780e5f079b0e130c9ac8ce03d04741a0d100818c2db2ae65d69a4b786aac0149"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.i686-w64-mingw32.tar.gz"
-[[mpg123]]
-arch = "powerpc64le"
-git-tree-sha1 = "143cd7947c85c62f95d52bf468fa0fcde224992e"
-libc = "glibc"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "6c2d676e516a5586c2922346cfd792b1eb77cec77621d13a82d886c0bfeb9941"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.powerpc64le-linux-gnu.tar.gz"
-[[mpg123]]
-arch = "x86_64"
-git-tree-sha1 = "892b356e7ec149afd07c659ee2dcdab7914a8abf"
-os = "macos"
-
-    [[mpg123.download]]
-    sha256 = "1be471975c49279aba457c4375d098ef0900884c42f3139c752daec0daff19e6"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.x86_64-apple-darwin.tar.gz"
-[[mpg123]]
-arch = "x86_64"
-git-tree-sha1 = "fdc4250c56f0d8b3e03aa6a0b46436588ca26173"
-libc = "glibc"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "d6d3e9de101f42c5cba9b8a0d5363c1f8762e6ea3fb9b97a14b9a9ff0e681cac"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.x86_64-linux-gnu.tar.gz"
-[[mpg123]]
-arch = "x86_64"
-git-tree-sha1 = "84376a50eea98a5e815238b6a4bd4e14d9f9d11c"
-libc = "musl"
-os = "linux"
-
-    [[mpg123.download]]
-    sha256 = "a4a1c2f3a84c076f7124777f37cf09003da4018dbfa683e820cbe5b02d8c04df"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.x86_64-linux-musl.tar.gz"
-[[mpg123]]
-arch = "x86_64"
-git-tree-sha1 = "6bad34ed22e434c561b46422d2dc1be4b55e1eae"
+arch = "aarch64"
+git-tree-sha1 = "3f60dc2819d77d283487996c88319c35e03a75a2"
 os = "freebsd"
 
     [[mpg123.download]]
-    sha256 = "45c0f748cdcb845853fa455ac03b58a9e7e878a6ca349a882163817e06708c30"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a7948159668189c85ef34beedc763f2037658449aa4c2f548b98edf8dc898c6b"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.aarch64-unknown-freebsd.tar.gz"
 [[mpg123]]
-arch = "x86_64"
-git-tree-sha1 = "ae6695e7e38cbeab9ce26226f4a50842456fc9d4"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "00fb92f5d6f808d3bd9422471993c7e04a6957a5"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "65b4078ab3da0ab030d80933dd41fe433f6763d516d288c1c1b26928a43f942d"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.armv6l-linux-gnueabihf.tar.gz"
+[[mpg123]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5050d8f386a835b8186a39a42acfa037c02fbc94"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "ec7ee4332dc35f7a2d767b0f2e7f162cf6729efe7fbe4a7dc8476c806ac021e0"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.armv6l-linux-musleabihf.tar.gz"
+[[mpg123]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a27098edcda04216da23a5fb08dbf2fb7492a028"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "9d782a8ff709a5da0a50e5ad0689e21a423be33294f20a31284d73c276aa5ffe"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.armv7l-linux-gnueabihf.tar.gz"
+[[mpg123]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6dc177565cc06fe91fcfb3e78cf8bf56d2a60999"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "506ca9d899ae5364f782b6414e48d4c0682349e41a9aab77e3da0d5953d7858e"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.armv7l-linux-musleabihf.tar.gz"
+[[mpg123]]
+arch = "i686"
+git-tree-sha1 = "c8e11d3d88e80e189b555d197349994497389c08"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "5791ad7dc0806f5dc4322a1e7f1eac761d79a21b561940626506aa98facd07b4"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.i686-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "i686"
+git-tree-sha1 = "35ec587886917d434b31f3faa82a76a2288d342d"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "212cd1df209720a3e4bfaf4908bef14a5b0f8a62b112929a560b6bff77a00147"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.i686-linux-musl.tar.gz"
+[[mpg123]]
+arch = "i686"
+git-tree-sha1 = "84f301d83c576b26f8eccc4d90c7b5c2a0649921"
 os = "windows"
 
     [[mpg123.download]]
-    sha256 = "3b9e35365b6c6c6cbf22f0435ac576ddc3065b71b5a69ba4247b227873190d7a"
-    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.29.3+0/mpg123.v1.29.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5f9866ce2d124efb2b518d9c4732975ea43c639fd2d6b4425c60c19388d925cc"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.i686-w64-mingw32.tar.gz"
+[[mpg123]]
+arch = "powerpc64le"
+git-tree-sha1 = "1cb9bd2f0ef8e3b574609a4b1df6dc3f4cbb9f93"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "411e146e12e5f9d709337084021951ca11d5cc9aeb27b185556288b931ca0f08"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.powerpc64le-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "riscv64"
+git-tree-sha1 = "3896c851c55248efbb3052f09c0ec66440396c23"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "7e1b52528280339db0830830d8ab4ebe0caced77a978aa5cfb7cbb6e06eaf7a2"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.riscv64-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "5e4f936afb3f879cda37808715a28cc888224f7b"
+os = "macos"
+
+    [[mpg123.download]]
+    sha256 = "ced681acf20373d486be644559feee3e1e75b1f44d9b5f00e85d0ef9f333794b"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.x86_64-apple-darwin.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "de696cb16f0aa34f5920f5c8f3be4d0cebed20d9"
+libc = "glibc"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "f8ca79a05c80b15fd5006fc3bafa112769c51720ac86ee520585a85c8819ce45"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.x86_64-linux-gnu.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "b4c4218fc38611d169d5bc127b5fd2dd0c32cd0f"
+libc = "musl"
+os = "linux"
+
+    [[mpg123.download]]
+    sha256 = "01d9acd78e73c0d858ae35d44510d409759901dddd30d967dca0924625bbdaa5"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.x86_64-linux-musl.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "37787868469b98dd9aae4277b274bc9b11852294"
+os = "freebsd"
+
+    [[mpg123.download]]
+    sha256 = "10adde7f3794e61bf4d450e1c89db95238ec73559e2e8bb6b8716bcfa545f0fb"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.x86_64-unknown-freebsd.tar.gz"
+[[mpg123]]
+arch = "x86_64"
+git-tree-sha1 = "45d7cfaf26fa303b560ef07ce95d8be85d66b869"
+os = "windows"
+
+    [[mpg123.download]]
+    sha256 = "713ace123930fda688aaf81a284ed917f29e60f098edbdcf3594b313d6a9558b"
+    url = "https://github.com/JuliaBinaryWrappers/mpg123_jll.jl/releases/download/mpg123-v1.33.0+0/mpg123.v1.33.0.x86_64-w64-mingw32.tar.gz"
